@@ -13,7 +13,11 @@
 #ifndef __ByteConvert_h__
 #define __ByteConvert_h__
 
-#include "WProgram.h"
+#if defined(ARDUINO) && ARDUINO >= 100
+  #include "Arduino.h"
+  #else
+  #include "WProgram.h"
+#endif
 
 void int2bytes(int, byte*);
 int bytes2int(byte*);
