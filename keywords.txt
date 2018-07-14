@@ -1,14 +1,14 @@
-ByteConvert	KEYWORD 1
+ByteConvert	KEYWORD1
 
-unsigned_int2byte	KEYWORD 2
-unsigned_bytes2int	KEYWORD 2
-unsigned_int2bytes_127	KEYWORD 2
-unsigned_bytes2int_127	KEYWORD 2
-long2byte	KEYWORD 2
-bytes2long	KEYWORD 2
-long2byte_127	KEYWORD 2
-bytes2long_127	KEYWORD 2
-int2bytes	KEYWORD 2
-bytes2int	KEYWORD 2
-int2bytes_127	KEYWORD 2
-bytes2int_127	KEYWORD 2
+unsigned_int2byte	KEYWORD2
+unsigned_bytes2int	KEYWORD2
+unsigned_int2bytes_127	KEYWORD2
+unsigned_bytes2int_127	KEYWORD2
+long2byte	KEYWORD2
+bytes2long	KEYWORD2
+long2byte_127	KEYWORD2
+bytes2long_127	KEYWORD2
+int2bytes	KEYWORD2
+bytes2int	KEYWORD2
+int2bytes_127	KEYWORD2
+bytes2int_127	KEYWORD2
